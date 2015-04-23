@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dhani.myapplication" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Mini Diary Mobile Online"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Mini Diary Mobile Online" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SecondActivity"
+            android:label="Mini Diary Mobile Online" >
+        </activity>
+        <activity
+            android:name=".NewDiary"
+            android:label="New Diary" >
+        </activity>
+        <activity
+            android:name=".DiaryHistory"
+            android:label="Diary History" >
+        </activity>
+        <activity
+            android:name=".Option"
+            android:label="Option" >
+        </activity>
+    </application>
+
+</manifest>
