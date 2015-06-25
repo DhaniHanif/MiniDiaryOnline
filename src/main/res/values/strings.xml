@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mini Mobile Diary Online</string>
+    <string name="title_activity_second">Main Menu</string>
+    <string name="title_activity_new_diary">New Diary</string>
+    <string name="title_activity_diary_history">Diary History</string>
+    <string name="title_activity_about">About</string>
+    <string name="menu_delete">Delete Diary</string>
+    <string name="edit_note">Edit Diary</string>
+    <string name="app_id">1426342554337702</string>
+    <string name="title_activity_fblogin">FaceBook Login</string>
+</resources>
